@@ -1,0 +1,26 @@
+# Student Performance Analysis
+
+## Project Overview
+This project analyzes student performance data using Excel.
+
+## Dataset Features
+- Gender
+- Race/Ethnicity
+- Parental Level of Education
+- Lunch Type
+- Test Preparation
+- Math Score
+- Reading Score
+- Writing Score
+
+## Tools Used
+- Microsoft Excel
+- Data Visualization
+
+## Key Findings
+- Student scores vary across parental education levels.
+- Reading and writing scores are generally higher than math scores.
+- Test preparation appears to improve performance.
+
+## Author
+Angel
